@@ -1,3 +1,3 @@
 # flight_planner
 
-A simple flight planner application
+A simple flight planner application with tests
