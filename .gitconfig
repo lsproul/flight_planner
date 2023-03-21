@@ -1,0 +1,13 @@
+[user]
+	email = leighton.sproul@gmail.com
+	name = Leighton Sproul
+[man]
+	viewer = catman
+[man "catman"]
+	cmd = man -P cat
+[core]
+	pager = cat
+[pull]
+	rebase = false
+[http]
+	sslverify = false
