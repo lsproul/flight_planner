@@ -18,7 +18,8 @@ public class SeatMap {
     }
 
     public String[] getFreeSeats(int numOfSeatsWanted) {
-        
+
+
     }
 
     public void reserveSeats(HashMap<String, String> seatNameToNewPassengerName) {
